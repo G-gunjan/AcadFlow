@@ -143,21 +143,5 @@ The AI Agent can:
 
 > Optional: Set `OPENAI_API_KEY` environment variable to enable real LLM responses.
 
----
+Demo link:https://drive.google.com/file/d/1UdzAFQn4aZESCQd_rm9v9HZysRp5A-Gk/view?usp=sharing
 
-## 🎥 2-Minute Video Demo Script
-
-See `docs/demo_script.md`
-
----
-
-## 👨‍🎓 Suitable For
-
-- Mini Project (Database Management Systems)
-- AI / Agent based Mini Project
-- Final Year Mini Project
-- College Internal Project
-
----
-
-**Made for College Mini Project – 2026**
