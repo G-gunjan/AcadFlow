@@ -1,10 +1,4 @@
 # AcadFlow
-**Digital Signature & Approval System for College Reports**
-
-> Mini Project – Database Systems / AI Agent
-
----
-
 ## 📌 Problem Statement
 
 In colleges, students face a major problem of collecting **physical signatures** from Faculty members and HODs for:
@@ -140,8 +134,6 @@ The AI Agent can:
 - Explain the approval process
 - Suggest correct Faculty/HOD
 - Guide users on how to use the system
-
-> Optional: Set `OPENAI_API_KEY` environment variable to enable real LLM responses.
 
 Demo link:https://drive.google.com/file/d/1UdzAFQn4aZESCQd_rm9v9HZysRp5A-Gk/view?usp=sharing
 
