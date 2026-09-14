@@ -1,4 +1,4 @@
-# CollegeApprove AI Agent  
+# AcadFlow
 **Digital Signature & Approval System for College Reports**
 
 > Mini Project – Database Systems / AI Agent
